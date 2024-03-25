@@ -1,0 +1,69 @@
+permissions:
+  - worldedit.use
+  - worldguard.region.wand
+  - worldguard.region.info.*
+  - worldguard.region.flag.*
+  - worldguard.region.flag.regions.*
+worlds:
+  tier-1:
+    folder: Tier 1
+    name: Tier 1
+    icon: GRASS_BLOCK
+    description:
+    - Tier 1 housing
+  tier-2:
+    folder: Tier 2
+    name: Tier 2
+    icon: GRASS_BLOCK
+    description:
+    - Tier 2 housing
+  tier-3:
+    folder: Tier 3
+    name: Tier 3
+    icon: GRASS_BLOCK
+    description:
+    - Tier 3 housing
+  tier-4:
+    folder: Tier 4
+    name: Tier 4
+    icon: GRASS_BLOCK
+    description:
+    - Tier 4 housing
+  tier-5:
+    folder: Tier 5
+    name: Tier 5
+    icon: GRASS_BLOCK
+    description:
+    - Tier 5 housing
+  tier-6:
+    folder: Tier 6
+    name: Tier 6
+    icon: GRASS_BLOCK
+    description:
+    - Tier 6 housing
+  tier-7:
+    folder: Tier 7
+    name: Tier 7
+    icon: GRASS_BLOCK
+    description:
+    - Tier 7 housing
+  tier-8:
+    folder: Tier 8
+    name: Tier 8
+    icon: GRASS_BLOCK
+    description:
+    - Tier 8 housing
+  tier-9:
+    folder: Tier 9
+    name: Tier 9
+    icon: GRASS_BLOCK
+    description:
+    - Tier 9 housing
+  tier-10:
+    folder: Tier 10
+    name: Tier 10
+    icon: GRASS_BLOCK
+    description:
+    - Tier 10 housing
+
+
